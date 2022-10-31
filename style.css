@@ -27,8 +27,8 @@
 }
 
 .buy-now-btn{
-    background-color: #ff2987;
-    color: white;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
     padding: 9px 25px;
     border-radius: 8px;
     border: 0;
